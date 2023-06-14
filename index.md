@@ -48,8 +48,8 @@ For those who don't know, a transistor is a mini semiconductor that is used to a
 What I most enjoyed about this project is definitely soldering everything together. I enjoy soldering a lot.  It also helps teach my hand to be very steady and precise. There is one part I struggled with is desoldering the photoresistor because as you can see it is a bit twisted and high. I wasn't able to desolder it correctly so I had to resolve it and bend it up. It doesn't affect the performance of the project only the look
 
 Then my next step is to start on my intermediate project which is the Third Eye for the Blind
-[![First Milestone](<iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> "First Milestone")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
