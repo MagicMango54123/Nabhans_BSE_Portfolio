@@ -1,4 +1,4 @@
-# Blue Stamp Engineering Art Deco Mini Cat Lamp
+# Blue Stamp Engineering Third Eye for The Blind
 
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
@@ -39,7 +39,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
-# Starter Project
+# Starter Project: Art Deco Mini Cat Lamp
 Hi, my name is nabhan. I am an incoming sophomore from design tech high school. My project is the Mini Cat Lamp. This project includes the process of soldering components to the back of the cat and the bottom of the base, soldering the main body pieces together to make everything stay in place, and testing it out. 
 
 I had 5 different parts. The transistor, resistor, LED, photoresistor, a switch, and the battery 
