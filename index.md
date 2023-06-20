@@ -33,8 +33,6 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone: Breadboard Prototype
-My project is called Third Eye for the Blind and it detects when something is close by and alerts the user(the blind person). The closer something is the more it will beep and alert the user how close something is. 
-
 I will build my project using the prototype I currently have on a breadboard. I will want to customize it more and add features that will help the user even more. Then once I finish and finalize that I will put all of this on a perf board and solder it on. After I finish that I will find a comfortable way for the user to wear it.
 
 There are 7 different parts. A slide switch, LED, 200 ohms resistor, ultrasonic sensor, Arduino nano, buzzer, and DC 3V vibration motor. A slide switch is a switch that slides between 2 settings and I use it to switch between the buzzer and the motor. A LED is a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working. A 200 ohms resistor is a  resistor that limits the flow of electrons through a circuit to around 200 ohms. An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor. An Arduino Nano is kinda like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs. A buzzer is an audio signaler device that is used to indicate to the user that something is close by. A DC 3V vibration motor is a small motor that vibrates when something is close by.
@@ -48,8 +46,6 @@ My basic plan is to add some features to the current circuit, put that onto a pe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project: Art Deco Mini Cat Lamp
-Hi, my name is nabhan. I am an incoming sophomore from design tech high school. My project is the Mini Cat Lamp. This project includes the process of soldering components to the back of the cat and the bottom of the base, soldering the main body pieces together to make everything stay in place, and testing it out. 
-
 I had 5 different parts. The transistor, resistor, LED, photoresistor, a switch, and the battery 
 For those who don't know, a transistor is a mini semiconductor that is used to amplify or switch electrical signals and power.  is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. A photoresistor is a sensor that changes its resistance when light shines on it.
 
