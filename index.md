@@ -43,8 +43,9 @@ Some technical progress I have made so far was designing on the breadboard, comp
 
 Some challenges for future milestones are that I need to find out what customizations I need to implement, the parts needed to do that, how to implement that onto a perf board, and find a way to put the perf board on something that is easy to wear. One thing I'm not sure it will be a challenge or not will possibly be Bluetooth.
 
-
 My basic plan is to add some features to the current circuit, put that onto a perf board, find a comfortable mount for the perf board, and find a good place to keep it
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project: Art Deco Mini Cat Lamp
 Hi, my name is nabhan. I am an incoming sophomore from design tech high school. My project is the Mini Cat Lamp. This project includes the process of soldering components to the back of the cat and the bottom of the base, soldering the main body pieces together to make everything stay in place, and testing it out. 
