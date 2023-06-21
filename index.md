@@ -34,7 +34,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone: Breadboard Prototype
 
-## Parts
+Parts:
 There are 7 different parts. 
 -  A slide switch: a switch that slides between 2 settings and I use it to switch between the buzzer and the motor.
 -  LED: a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working.
@@ -44,13 +44,13 @@ There are 7 different parts.
 -  buzzer: an audio signaler device that is used to indicate to the user that something is close by.
 -  DC 3V vibration motor: a small motor that vibrates when something is close by.
 -  
-## Progress
+Progress:
 In terms of technical progress, I finished creating and designing a working prototype, while also documenting every step of the processes. I created my working prototype using all the parts mentioned above. Thanks to the functionality of the breadboard I was able to test and try out different iterations of the prototype to find a way to make it work perfectly. Once I found the perfect layout for the mechanical parts, I put the code into the circuit and started to test it out. 
 
- ## Challenges
+Challenges:
 Some challenges were just finding out how to even start on the breadboard. I was completely lost at first and didn't know what I was doing. But with a little bit of guidance and knowledge, I figured out how to do it and do anything I like now.
 
-## What is next
+What is next:
 What's next is to finish my second milestone by researching what I will do to customize my project and add features users may need. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
