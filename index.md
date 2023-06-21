@@ -33,15 +33,25 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone: Breadboard Prototype
-I will build my project using the prototype I currently have on a breadboard. I will want to customize it more and add features that will help the user even more. Then once I finish and finalize that I will put all of this on a perf board and solder it on. After I finish that I will find a comfortable way for the user to wear it.
 
-There are 7 different parts. A slide switch, LED, 200 ohms resistor, ultrasonic sensor, Arduino nano, buzzer, and DC 3V vibration motor. A slide switch is a switch that slides between 2 settings and I use it to switch between the buzzer and the motor. A LED is a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working. A 200 ohms resistor is a  resistor that limits the flow of electrons through a circuit to around 200 ohms. An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor. An Arduino Nano is kinda like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs. A buzzer is an audio signaler device that is used to indicate to the user that something is close by. A DC 3V vibration motor is a small motor that vibrates when something is close by.
+## Parts
+There are 7 different parts. 
+-  A slide switch: a switch that slides between 2 settings and I use it to switch between the buzzer and the motor.
+-  LED: a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working.
+-  200 ohms resistor: a  resistor that limits the flow of electrons through a circuit to around 200 ohms.
+-  ultrasonic sensor: an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor.
+-  Arduino nano: is kinda like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs.
+-  buzzer: an audio signaler device that is used to indicate to the user that something is close by.
+-  DC 3V vibration motor: a small motor that vibrates when something is close by.
+-  
+## Progress
+In terms of technical progress, I finished creating and designing a working prototype, while also documenting every step of the processes. I created my working prototype using all the parts mentioned above. Thanks to the functionality of the breadboard I was able to test and try out different iterations of the prototype to find a way to make it work perfectly. Once I found the perfect layout for the mechanical parts, I put the code into the circuit and started to test it out. 
 
-Some technical progress I have made so far was designing on the breadboard, completing the breadboard, putting the code in, testing if it works, and completing my first milestone.
+ ## Challenges
+Some challenges were just finding out how to even start on the breadboard. I was completely lost at first and didn't know what I was doing. But with a little bit of guidance and knowledge, I figured out how to do it and do anything I like now.
 
-Some challenges for future milestones are that I need to find out what customizations I need to implement, the parts needed to do that, how to implement that onto a perf board, and find a way to put the perf board on something that is easy to wear. One thing I'm not sure it will be a challenge or not will possibly be Bluetooth.
-
-My basic plan is to add some features to the current circuit, put that onto a perf board, find a comfortable mount for the perf board, and find a good place to keep it
+## What is next
+What's next is to finish my second milestone by researching what I will do to customize my project and add features users may need. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
