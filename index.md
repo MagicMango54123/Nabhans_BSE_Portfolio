@@ -40,9 +40,9 @@ There are 7 different parts.
 -  A slide switch: a switch that slides between 2 settings and I use it to switch between the buzzer and the motor.
 -  LED: a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working.
 -  200 ohms resistor: a  resistor that limits the flow of electrons through a circuit to around 200 ohms.
--  ultrasonic sensor: an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor.
+-  Ultrasonic sensor: an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor.
 -  Arduino nano: is kinda like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs.
--  buzzer: an audio signaler device that is used to indicate to the user that something is close by.
+-  Buzzer: an audio signaler device that is used to indicate to the user that something is close by.
 -  DC 3V vibration motor: a small motor that vibrates when something is close by.
 
  In terms of technical progress, I finished creating and designing a working prototype, while also documenting every step of the processes. I created my working prototype using all the parts mentioned above. Thanks to the functionality of the breadboard I was able to test and try out different iterations of the prototype to find a way to make it work perfectly. Once I found the perfect layout for the mechanical parts, I put the code into the circuit and started to test it out. 
