@@ -25,7 +25,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 # Second Milestone
-
+<!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
@@ -33,6 +33,15 @@ For your second milestone, explain what you've worked on since your previous mil
 - What needs to be completed before your final milestone 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+-->
+What I've added to my project is a temperature sensor that uses a speaker to tell you when an object is too hot and unsafe to touch, a Bluetooth module with a voltage divider and a button, and uploaded audio files to the board without an SD card. The temperature sensor can be used in a situation where something is too hot and unsafe to touch. Since the blind person can't see how far the aforementioned hot object is, this would tell you to not get closer. I added audio files to the board so that the speaker can tell you that something is not rather than having another sound to indicate that something is. I added a Bluetooth module with a button because I wanted to add a help button just in case the person is in an unsafe situation and needs to alert someone.
+
+What has been surprising about this project is how much wire and space it takes. When I first started I thought this would barely take a space and I could add a lot of modifications. This was not the case. I thought I would need full body armor to fit the few modifications I added. Full body armor would be cool either way though. 
+
+One challenge I faced was integrating the Bluetooth feature. When I first started I knew nothing about how to implement Bluetooth, but I knew I needed to find out if I wanted to create a help button. I ended up creating an app to connect to the Bluetooth module and receive help messages. That ended up not working. The Bluetooth module connected with my phone but not my app. So I ditched the app I so meticulously created and installed a serial monitor instead which worked much better.
+
+For my final milestone, I need to do 3 things. The first thing is to find a way to reduce the amount of space my project takes up. Next, I need to make it wearable and not a hindrance for the user to wear. The final step would be to test it out. Once I complete all of those things I should be done
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aJhYZ5yLmZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
