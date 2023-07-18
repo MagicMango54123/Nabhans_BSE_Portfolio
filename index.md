@@ -13,17 +13,30 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 ![Headstone Image](Nabhan-Headshot.png){: height="50%" width="50%"}
   
 # Final Milestone
+<!---
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
+-->
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+Since my previous milestone, I have made my project wearable and practical to use. I first downsized the project by about 50% and fit it all on one main surface. I put straps on the prototype so that anyone can wear them on their forearms/hands. I put the ultrasonic sensor on the back of the hand, the temperature sensor on the end of your middle finger, and moved the help button to an isolated place. I moved the button to a perf board and soldered it on. I hot-glued the battery pack to the side of the breadboard. I also made the wiring a tad bit cleaner
+
+Without a doubt, my biggest challenge was the customization step. Specifically implementing the help button feature. When I started I had no idea what I was doing or how to even start. It stumped me for so long. Talking about starting, one other challenge was always starting everything. I believe in the phrase that the first step is always the hardest. This was the case for me throughout the whole project. Once I found out how to start everything else came relatively easy.
+
+Some of my biggest triumphs was finishing the project. That was such a sign of relief. This was equally as fun as it was intense and this project was a lot of fun. So once I finished the project, I felt extremely accomplished and happy to bring my creation to life.
+Finish.
+
+Some things I learned were the basics of coding in C++. More specifically, I learned things like how to comment on lines of code, the different libraries, loops, conditional statements, arrays, functions, how to combine multiple sketches, and much more. Anothing thing I learned is how to handle audio files. I learned how to successfully condense and modify the files to a degree where you are able to upload it to an arduino nano without a sd card. One of the most important things that I learned was how to research key parts in my project, how to implement those parts, and be able to combine everything together to get a project of my design. 
+
+I love learning new things. I want to learn about everything but one thing this camp helped foster was my fascination in electrical engineering. It drives technological advancement, requires problem-solving skills and creativity, has broad applicability across industries, encourages constant innovation, and involves collaboration and teamwork. These aspects make it an intellectually stimulating and rewarding field. 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BH6_-c2tB2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Second Milestone
-<!--
+
+<!---
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
@@ -32,6 +45,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
+
 What I've added to my project is a temperature sensor that uses a speaker to tell you when an object is too hot and unsafe to touch, a Bluetooth module with a voltage divider and a button, and uploaded audio files to the board without an SD card. The temperature sensor can be used in a situation where something is too hot and unsafe to touch. Since the blind person can't see how far the aforementioned hot object is, this would tell you to not get closer. I added audio files to the board so that the speaker can tell you that something is not rather than having another sound to indicate that something is. I added a Bluetooth module with a button because I wanted to add a help button just in case the person is in an unsafe situation and needs to alert someone.
 
 What has been surprising about this project is how much wire and space it takes. When I first started I thought this would barely take a space and I could add a lot of modifications. This was not the case. I thought I would need full body armor to fit the few modifications I added. Full body armor would be cool either way though. 
@@ -71,6 +85,7 @@ What I most enjoyed about this project is definitely soldering everything togeth
 Then my next step is to start on my intermediate project which is the Third Eye for the Blind
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <!---
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
