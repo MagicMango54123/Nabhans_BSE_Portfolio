@@ -232,22 +232,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Solid core wires |Used as jumper wires that can be soldered  | $6.90 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=33IWC40ETHR6A&keywords=solid+core+wire&qid=1689884878&sprefix=solid+core+wire%2Caps%2C339&sr=8-7)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Male-to-male jumper wires | Used to connect compenets without soldering| $5.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FP517VM/ref=sr_1_6?crid=E0TUZAAY2ZVN&keywords=male+to+male+jumper+wire&qid=1689886329&sprefix=male+to+male+jumer+%2Caps%2C253&sr=8-6)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Male-to-female jumper wires | Used to connect compenets without soldering | $5.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FPJM3L9/ref=sr_1_10?keywords=Male-to-female+jumper+wires&qid=1689886505&sr=8-10)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Female-to-female jumper wires | Used to connect compenets without soldering | $5.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FPL5QV8/ref=sr_1_13?crid=2RHAYU3JQXC05&keywords=Female-to-female+jumper+wires&qid=1689886657&sprefix=female-to-female+jumper+wires%2Caps%2C261&sr=8-13)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| HC-05 Bluetooth module | Used to enable the button send a help message to the android phone | $7.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Bluetooth-Converter-Wireless-Transceiver-Communication/dp/B08Z3J9Y8T/ref=sr_1_18?crid=15O69JEM1KME8&keywords=HC-05+Bluetooth+module&qid=1689886759&sprefix=hc-05+bluetooth+module+%2Caps%2C199&sr=8-18)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Speaker | the audio component of the project and works with the temperature sensor to tell you when something is too hot | $15.99 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/MakerHawk-Full-Range-Advertising-Connector-Separating/dp/B07GJ4GH67/ref=sr_1_3?crid=2HCVM2WV4UHVQ&keywords=MakerHawk%2BSpeaker%2B3%2BWatt%2B8%2BOhm&qid=1689887110&s=electronics&sprefix=makerhawk%2Bspeaker%2B3%2Bwatt%2B8%2Bohm%2B%2Celectronics%2C200&sr=1-3&th=1)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Breadboard | the base of everything and allows me to make changes at any point | $8.75 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8/ref=sr_1_13?crid=1IQWCQ5K1Z63N&keywords=Breadboard&qid=1689887560&sprefix=breadboard%2Caps%2C648&sr=8-13)"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Perf board | used to solder wires on permanently | $2.39 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.schmalztech.com/products/2-x-2-perfboard)"> Link </a> |
-|:--:|:--:|:--:|:--:|
 | LED | It indicates that the circuit is working | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_6?crid=1JN35S0B7WXIW&keywords=singular+led&qid=1689895378&sprefix=singluar+led%2Caps%2C258&sr=8-6) </a> |
 |:--:|:--:|:--:|:--:|
 | NPN transistor | Is used to amplify the speaker | $5.91 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-NPN-Bipolar-Transistors-PN2222/dp/B00XW2OK7M/ref=sr_1_5?crid=37MVSD4IT229G&keywords=NPN+transistor&qid=1689895586&sprefix=npn+transistor%2Caps%2C983&sr=8-5) </a> |
@@ -258,15 +242,29 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Arduino nano | The brain of the whole thing | $12.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Deegoo-ATmega328P-Microcontroller-Board-Arduino/dp/B07R9VWD39/ref=sr_1_5?crid=3LJL76V0OCZ6M&keywords=Arduino+nano&qid=1689896047&sprefix=arduino+nano%2Caps%2C397&sr=8-5) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Perf board | used to solder wires on permanently | $2.39 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.schmalztech.com/products/2-x-2-perfboard) </a> |
+|:--:|:--:|:--:|:--:|
+| Breadboard | the base of everything and allows me to make changes at any point | $8.75 |<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/BB830-Solderless-Plug-BreadBoard-tie-Points/dp/B0040Z4QN8/ref=sr_1_13?crid=1IQWCQ5K1Z63N&keywords=Breadboard&qid=1689887560&sprefix=breadboard%2Caps%2C648&sr=8-13) </a> |
+|:--:|:--:|:--:|:--:|
+| Speaker | the audio component of the project and works with the temperature sensor to tell you when something is too hot | $15.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/MakerHawk-Full-Range-Advertising-Connector-Separating/dp/B07GJ4GH67/ref=sr_1_3?crid=2HCVM2WV4UHVQ&keywords=MakerHawk%2BSpeaker%2B3%2BWatt%2B8%2BOhm&qid=1689887110&s=electronics&sprefix=makerhawk%2Bspeaker%2B3%2Bwatt%2B8%2Bohm%2B%2Celectronics%2C200&sr=1-3&th=1) </a> |
+|:--:|:--:|:--:|:--:|
+| HC-05 Bluetooth module | Used to enable the button send a help message to the android phone | $7.99 |<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Bluetooth-Converter-Wireless-Transceiver-Communication/dp/B08Z3J9Y8T/ref=sr_1_18?crid=15O69JEM1KME8&keywords=HC-05+Bluetooth+module&qid=1689886759&sprefix=hc-05+bluetooth+module+%2Caps%2C199&sr=8-18) </a> |
+|:--:|:--:|:--:|:--:|
+| Female-to-female jumper wires | Used to connect compenets without soldering | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FPL5QV8/ref=sr_1_13?crid=2RHAYU3JQXC05&keywords=Female-to-female+jumper+wires&qid=1689886657&sprefix=female-to-female+jumper+wires%2Caps%2C261&sr=8-13) </a> |
+|:--:|:--:|:--:|:--:|
+| Male-to-female jumper wires | Used to connect compenets without soldering | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FPJM3L9/ref=sr_1_10?keywords=Male-to-female+jumper+wires&qid=1689886505&sr=8-10) </a> |
+|:--:|:--:|:--:|:--:|
+| Male-to-male jumper wires | Used to connect compenets without soldering| $5.99 |<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FP517VM/ref=sr_1_6?crid=E0TUZAAY2ZVN&keywords=male+to+male+jumper+wire&qid=1689886329&sprefix=male+to+male+jumer+%2Caps%2C253&sr=8-6) </a> |
+|:--:|:--:|:--:|:--:|
+| Solid core wires |Used as jumper wires that can be soldered  | $6.90 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=33IWC40ETHR6A&keywords=solid+core+wire&qid=1689884878&sprefix=solid+core+wire%2Caps%2C339&sr=8-7) </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-
 <!---
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
+One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how 
+they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
