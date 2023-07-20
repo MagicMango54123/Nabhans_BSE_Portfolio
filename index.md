@@ -13,6 +13,8 @@ My project, "Third Eye for the Blind" is a wearable technology project designed 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 -->
 ![Headstone Image](Nabhan-Headshot.png){: height="50%" width="50%"}
+![Headstone Image](Nabhan-Project.png){: height="50%" width="50%"}
+
   
 # Final Milestone
 <!---
@@ -247,15 +249,15 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Perf board | used to solder wires on permanently | $2.39 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.schmalztech.com/products/2-x-2-perfboard)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| LED | It indicates that the circuit is working | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_6?crid=1JN35S0B7WXIW&keywords=singular+led&qid=1689895378&sprefix=singluar+led%2Caps%2C258&sr=8-6) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| NPN transistor | Is used to amplify the speaker | $5.91 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-NPN-Bipolar-Transistors-PN2222/dp/B00XW2OK7M/ref=sr_1_5?crid=37MVSD4IT229G&keywords=NPN+transistor&qid=1689895586&sprefix=npn+transistor%2Caps%2C983&sr=8-5) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| temprerature sensor | inputs the temperature of things around it | $16.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/KOOKYE-Temperature-Sensors-Precision-Arduino/dp/B01GH4VNNK/ref=sr_1_1?crid=126128QG09DND&keywords=kookye+temperature&qid=1689895903&sprefix=kookya+tem%2Caps%2C299&sr=8-1) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Ultrasonic sensor | inputs the distance of objects around it | $6.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/CUQI-Ultrasonic-Measuring-Transmitter-Compatible/dp/B092D2DS1Y/ref=sr_1_14?crid=1H44SDILWQW70&keywords=Ultrasonic+sensor&qid=1689895960&sprefix=ultrasonic+sensor%2Caps%2C1165&sr=8-14) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Arduino nano | The brain of the whole thing | $12.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Deegoo-ATmega328P-Microcontroller-Board-Arduino/dp/B07R9VWD39/ref=sr_1_5?crid=3LJL76V0OCZ6M&keywords=Arduino+nano&qid=1689896047&sprefix=arduino+nano%2Caps%2C397&sr=8-5) </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
