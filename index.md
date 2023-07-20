@@ -80,6 +80,7 @@ What's next is to finish my second milestone by researching what I will do to cu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 I had 5 different parts. The transistor, resistor, LED, photoresistor, a switch, and the battery 
 For those who don't know, a transistor is a mini semiconductor that is used to amplify or switch electrical signals and power.  is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. A photoresistor is a sensor that changes its resistance when light shines on it.
 
