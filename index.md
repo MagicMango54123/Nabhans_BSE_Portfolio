@@ -22,6 +22,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BH6_-c2tB2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Since my previous milestone, I have made my project wearable and practical to use. I first downsized the project by about 50% and fit it all on one main surface. I put straps on the prototype so that anyone can wear them on their forearms/hands. I put the ultrasonic sensor on the back of the hand, the temperature sensor on the end of your middle finger, and moved the help button to an isolated place. I moved the button to a perf board and soldered it on. I hot-glued the battery pack to the side of the breadboard. I also made the wiring a tad bit cleaner
 
@@ -30,12 +31,10 @@ Without a doubt, my biggest challenge was the customization step. Specifically i
 Some of my biggest triumphs was finishing the project. That was such a sign of relief. This was equally as fun as it was intense and this project was a lot of fun. So once I finished the project, I felt extremely accomplished and happy to bring my creation to life.
 Finish.
 
-Some things I learned were the basics of coding in C++. More specifically, I learned things like how to comment on lines of code, the different libraries, loops, conditional statements, arrays, functions, how to combine multiple sketches, and much more. Anothing thing I learned is how to handle audio files. I learned how to successfully condense and modify the files to a degree where you are able to upload it to an arduino nano without a sd card. One of the most important things that I learned was how to research key parts in my project, how to implement those parts, and be able to combine everything together to get a project of my design. 
+Some things I learned were the basics of coding in C++. More specifically, I learned things like how to comment on lines of code, the different libraries, loops, conditional statements, arrays, functions, how to combine multiple sketches, and much more. Another thing I learned is how to handle audio files. I learned how to successfully condense and modify the files to a degree where you are able to upload them to an Arduino Nano without an SD card. One of the most important things that I learned was how to research key parts in my project, how to implement those parts, and be able to combine everything together to get a project of my design. 
 
-I love learning new things. I want to learn about everything but one thing this camp helped foster was my fascination in electrical engineering. It drives technological advancement, requires problem-solving skills and creativity, has broad applicability across industries, encourages constant innovation, and involves collaboration and teamwork. These aspects make it an intellectually stimulating and rewarding field. 
+I love learning new things. I want to learn about everything but one thing this camp helped foster was my fascination with electrical engineering. It drives technological advancement, requires problem-solving skills and creativity, has broad applicability across industries, encourages constant innovation, and involves collaboration and teamwork. These aspects make it an intellectually stimulating and rewarding field. 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BH6_-c2tB2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Second Milestone
 
 <!---
@@ -45,8 +44,9 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+**Don't forget to replace the text below with the embedding for your milestone video. Go to YouTube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aJhYZ5yLmZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 What I've added to my project is a temperature sensor that uses a speaker to tell you when an object is too hot and unsafe to touch, a Bluetooth module with a voltage divider and a button, and uploaded audio files to the board without an SD card. The temperature sensor can be used in a situation where something is too hot and unsafe to touch. Since the blind person can't see how far the aforementioned hot object is, this would tell you to not get closer. I added audio files to the board so that the speaker can tell you that something is not rather than having another sound to indicate that something is. I added a Bluetooth module with a button because I wanted to add a help button just in case the person is in an unsafe situation and needs to alert someone.
 
@@ -57,16 +57,16 @@ One challenge I faced was integrating the Bluetooth feature. When I first starte
 For my final milestone, I need to do 3 things. The first thing is to find a way to reduce the amount of space my project takes up. Next, I need to make it wearable and not a hindrance for the user to wear. The final step would be to test it out. Once I complete all of those things I should be done
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aJhYZ5yLmZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # First Milestone: Breadboard Prototype
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 There are 7 different parts. 
 -  A slide switch: a switch that slides between 2 settings and I use it to switch between the buzzer and the motor.
 -  LED: a semiconductor device that emits light when current flows through it and is used to indicate if the circuit is working.
 -  200 ohms resistor: a  resistor that limits the flow of electrons through a circuit to around 200 ohms.
 -  Ultrasonic sensor: an electronic device that measures the distance of a target object by emitting ultrasonic sound waves and converts the reflected sound into an electrical signal. Then those signals are used to turn on either the buzzer or the motor.
--  Arduino nano: is kinda like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs.
+-  Arduino nano: is like the brain of the whole thing. It is a microcontroller that reads inputs and gives outputs.
 -  Buzzer: an audio signaler device that is used to indicate to the user that something is close by.
 -  DC 3V vibration motor: a small motor that vibrates when something is close by.
 
@@ -76,9 +76,10 @@ Some challenges were just finding out how to even start on the breadboard. I was
 
 What's next is to finish my second milestone by researching what I will do to customize my project and add features users may need. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d5VwIi9DM20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # Starter Project: Art Deco Mini Cat Lamp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I had 5 different parts. The transistor, resistor, LED, photoresistor, a switch, and the battery 
 For those who don't know, a transistor is a mini semiconductor that is used to amplify or switch electrical signals and power.  is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. A photoresistor is a sensor that changes its resistance when light shines on it.
 
@@ -89,11 +90,11 @@ Then my next step is to start on my intermediate project which is the Third Eye 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7I7oJT4viuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+**Don't forget to replace the text below with the embedding for your milestone video. Go to YouTube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
 # Schematics 
 <!---
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources for creating professional schematic diagrams, though BSE recommends Tinkercad because it can be done easily and for free in the browser. 
 -->
 # Code
 <!---
@@ -256,9 +257,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
+<!---
 
 # Other Resources/Examples
-<!---
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
