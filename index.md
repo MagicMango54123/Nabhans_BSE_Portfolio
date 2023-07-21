@@ -256,10 +256,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Solid core wires |Used as jumper wires that can be soldered  | $6.90 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=33IWC40ETHR6A&keywords=solid+core+wire&qid=1689884878&sprefix=solid+core+wire%2Caps%2C339&sr=8-7) </a> |
 |:--:|:--:|:--:|:--:|
-<!---
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
--->
+
 <!---
 
 # Other Resources/Examples
