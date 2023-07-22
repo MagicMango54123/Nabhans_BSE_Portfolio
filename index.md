@@ -14,6 +14,9 @@ My project, "Third Eye for the Blind" is a wearable technology project designed 
 -->
 ![Headstone Image](Nabhan-Headshot.png){: height="40%" width="40%"}  ![Headstone Image](Nabhan-Project.png){: height="40%" width="40%"}
 
+# Demo Night
+
+
   
 # Final Milestone
 <!---
@@ -92,8 +95,9 @@ Then my next step is to start on my intermediate project which is the Third Eye 
 <!---
 **Don't forget to replace the text below with the embedding for your milestone video. Go to YouTube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
-<!---
+
 # Schematics 
+<!---
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources for creating professional schematic diagrams, though BSE recommends Tinkercad because it can be done easily and for free in the browser. 
 -->
 # Code
