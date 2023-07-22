@@ -256,19 +256,35 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Solid core wires |Used as jumper wires that can be soldered  | $6.90 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=33IWC40ETHR6A&keywords=solid+core+wire&qid=1689884878&sprefix=solid+core+wire%2Caps%2C339&sr=8-7) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Andriod phone | Used to connect with the Bluetooth module and receive help messages | $59.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Total-Verizon-Samsung-Galaxy-Black/dp/B0BBY6DHJ8/ref=sr_1_5?keywords=cheap+android+phones&qid=1690007247&sr=8-5) </a> |
 |:--:|:--:|:--:|:--:|
 | 1k resistor | Used in a voltage divider | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRVPC8X/ref=sr_1_20?keywords=1k+resistor&qid=1689986348&sr=8-20) </a> |
 |:--:|:--:|:--:|:--:|
 | 2k resistor | Used in a voltage divider | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRQ1W2C/ref=sr_1_22_sspa?crid=28ASY1NCELGY4&keywords=2k+resistor&qid=1689986504&sprefix=2k+resistor%2Caps%2C245&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1) </a> |
 |:--:|:--:|:--:|:--:|
-| 10k resistor | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| 10k resistor | Used to  regulate the flow of electrical current for the LED | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRJZ82J/ref=sr_1_2_sspa?crid=2Z55AI0Z0ZRGB&keywords=10k+resistor&qid=1690005555&sprefix=10k+resistor%2Caps%2C350&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Switch | Used to switch between the vibration or the beeping function | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Position-Breadboard-Electronic-Miniature-SlideSwitch/dp/B09R43HCY3/ref=sr_1_1_sspa?crid=2PK9357UBUQN5&keywords=arduino+switch&qid=1690005604&sprefix=arduino+swit%2Caps%2C344&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Buzzer | Used to indicate the user that something is nearby | $6.98 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Cylewet-Electronic-Magnetic-Continuous-Arduino/dp/B01N7NHSY6/ref=sr_1_3?crid=3TEYQST83MRW&keywords=arduino+buzzer&qid=1690005722&sprefix=arduino+buzzer%2Caps%2C292&sr=8-3) </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Hot glue sticks/gun |Used to put some parts together | $11.98 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Assark-Sticks-School-Repairs-20W/dp/B09FYWQ44L/ref=sr_1_15?crid=2MVQ7814WS7BE&keywords=Hot+glue+sticks%2Fgun&qid=1690005849&sprefix=hot+glue+sticks%2Fgun%2Caps%2C400&sr=8-15) </a> |
+|:--:|:--:|:--:|:--:|
+| Straps | Used to make the prototype wearable | $15.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/VELCRO-Brand-Fastening-Multi-Purpose-VEL-30100-AMS/dp/B08MZYWQ3L/ref=sr_1_5?crid=2IDZV2LNY1ACH&keywords=velcro+straps&qid=1690006018&sprefix=velcro+stra%2Caps%2C235&sr=8-5) </a> |
+|:--:|:--:|:--:|:--:|
+| Battery pack | Gave the whole thing power | $17.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/ref=asc_df_B01CU1EC6Y/?tag=hyprod-20&linkCode=df0&hvadid=312111908612&hvpos=&hvnetw=g&hvrand=1427041063020814340&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031905&hvtargid=pla-523807968135&psc=1) </a> |
+|:--:|:--:|:--:|:--:|
+| DC vibration motor | Used to indicate the user that something is nearby in another way | $17.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/BestTong-8000RPM-12000RPM-Vibration-Vibrating-Coreless/dp/B07CVKHHJV/ref=sr_1_1_sspa?crid=3K2SZGH12QGBX&keywords=BestTong+DC+1.5V+3V+8000RPM-12000RPM+Vibration+Vibrating+Motors+Micro+Coreless+Brushed+Motors+4mm+x+17mm+Pack&qid=1690006571&sprefix=besttong+dc+1.5v+3v+8000rpm-12000rpm+vibration+vibrating+motors+micro+coreless+brushed+motors+4mm+x+17mm+pack%2Caps%2C406&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) </a> |
+|:--:|:--:|:--:|:--:|
+| Electrical tape | Used to make the area where the perf board sits and can be helpful to hold things together | $3.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Scotch-Heat-Resistant-Listed-Certified-Electrical/dp/B001AXD0EY/ref=sr_1_4?crid=2IJ2W43ZGR4SL&keywords=electrical+tape&qid=1690006807&sprefix=electrical+tap%2Caps%2C327&sr=8-4) </a> |
+|:--:|:--:|:--:|:--:|
+| USB-A to Mini USB cable | Used to connect the arduino nano to the battery pack | $6.32 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Amazon-Basics-Charging-Transfer-Gold-Plated/dp/B00NH13S44/ref=asc_df_B00NH13S44/?tag=hyprod-20&linkCode=df0&hvadid=167126093426&hvpos=&hvnetw=g&hvrand=5468074023090424415&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032366&hvtargid=pla-299575812713&psc=1) </a> |
+|:--:|:--:|:--:|:--:|
+| Heat shrink | to cover the exposed parts of wires when they were soldered together | $5.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Shrink-Tubing-Industrial-Heat-Shrink-Wires/dp/B0BG6V4HV4/ref=sr_1_3?crid=ZYTT5D0ZKSBU&keywords=heat+shrink&qid=1690007374&sprefix=heat+shrink%2Caps%2C317&sr=8-3) </a> |
+|:--:|:--:|:--:|:--:|
+| Solder/soldering iron | Used to combine wires together and to a perf board. Also to heat up the heat shrink | $11.68 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Soldering-soldering-solder-adjustable-temperature/dp/B09DY7CCW5/ref=sr_1_9?crid=19GFV57GH504M&keywords=solder%2Fsoldering+iron&qid=1690007439&sprefix=solder%2Fsoldering+iron%2Caps%2C860&sr=8-9) </a> |
+|:--:|:--:|:--:|:--:|
+| Wire stripper | Used to strip the casing off the wires | $6.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Mr-Stripper-Stripping-Crimping-Electrical/dp/B086V5M1B4/ref=sr_1_3_sspa?crid=1LBUGUQU50NRK&keywords=Wire+stripper&qid=1690007666&sprefix=wire+stripper%2Caps%2C1152&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) </a> |
 |:--:|:--:|:--:|:--:|
 
 
