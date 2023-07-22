@@ -256,11 +256,23 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Solid core wires |Used as jumper wires that can be soldered  | $6.90 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Adafruit-Solid-Core-Wire-Spool-ADA290/dp/B00KAE3NTQ/ref=sr_1_7?crid=33IWC40ETHR6A&keywords=solid+core+wire&qid=1689884878&sprefix=solid+core+wire%2Caps%2C339&sr=8-7) </a> |
 |:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| 1k resistor | Used in a voltage divider | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRVPC8X/ref=sr_1_20?keywords=1k+resistor&qid=1689986348&sr=8-20) </a> |
+|:--:|:--:|:--:|:--:|
+| 2k resistor | Used in a voltage divider | $4.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> [Link](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRQ1W2C/ref=sr_1_22_sspa?crid=28ASY1NCELGY4&keywords=2k+resistor&qid=1689986504&sprefix=2k+resistor%2Caps%2C245&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1) </a> |
+|:--:|:--:|:--:|:--:|
+| 10k resistor | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|:--:|:--:|:--:|:--:|
 
 
 <!---
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how 
